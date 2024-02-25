@@ -14,31 +14,38 @@ categories, locations etc
 
 ### Dashboards:
 #### Dashboard 1:
-![image info](Dashboards/Dashboard 1.png)
+<img width="1260" alt="Dashboard 1" src="https://github.com/harikakanakam/Tableau-Analytics-and-Visualization-Challenge/assets/113376852/3c7ae7aa-982d-4595-9864-0b764d3314a3">
+
 ##### Inferences:
 - Texas (43) and Ohio (31) have the highest store count, indicating strong market penetration.
 - Store spend is significant at $27,927,723, with Texas contributing greatly to state-wise sales with $14,352,266.
 - Visits are high at 9,012,000, suggesting good foot traffic across stores.
 - State-wise Households (HHS) in Texas are also high at 684,629, indicating a strong customer base.
 
+
 #### Dashboard 2:
-![image info](Dashboards/Dashboard 2.png)
+<img width="1242" alt="Dashboard 2" src="https://github.com/harikakanakam/Tableau-Analytics-and-Visualization-Challenge/assets/113376852/fa145ec2-0778-4f67-bd76-ed471d423af1">
+
 ##### Inferences:
 - Private Label leads manufacturer revenue with 25.67%, implying strong brand preference.
 - Ohio has the highest units sold at 1,724,057 and spend at $4,617,631, showing it's a top-performing state.
 - Cold cereals are popular in both sub-categories and sales, indicating customer preference.
 - Houston and Cincinnati are among the top 7 cities, suggesting regional sales strengths.
 
+
 #### Dashboard 3:
-![image info](Dashboards/Dashboard 3.png)
+<img width="1252" alt="Dashboard 3" src="https://github.com/harikakanakam/Tableau-Analytics-and-Visualization-Challenge/assets/113376852/6ed562c3-ae44-4e7f-8442-d34c13ab3db8">
+
 ##### Inferences:
 - Frozen pizza leads sub-category revenue at $6,459,558, showing high demand.
 - Oral hygiene products have lower revenue, suggesting potential growth opportunities.
 - Promotions on Day 1 show the highest visits at 1,964,331, which may indicate consumer response to initial promotional efforts.
 - Units sold are not proportionate to visits, indicating a possible gap in conversion rates.
 
+
 #### Dashboard 4:
-![image info](Dashboards/Dashboard 4.png)
+<img width="1252" alt="Dashboard 4" src="https://github.com/harikakanakam/Tableau-Analytics-and-Visualization-Challenge/assets/113376852/92a3d2ab-dc40-489e-b400-a34ad2fa713f">
+
 ##### Inferences:
 - Manufacturers should expand in Indiana and Kentucky due to low sales.
 - Maintain high stock for bag snacks and cold cereals due to consistent demand.
